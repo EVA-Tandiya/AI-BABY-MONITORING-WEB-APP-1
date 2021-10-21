@@ -1,0 +1,19 @@
+body{
+    background-size: cover;
+    background-position: center;
+    font-family: 'Caveat', cursive;
+}
+
+.heading{
+    font-size: 23px;
+    border: 1px solid black;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px black;
+    width: 100%;
+}
+a{
+    font-size: 18px;
+}
+button{
+    float: right;
+}
